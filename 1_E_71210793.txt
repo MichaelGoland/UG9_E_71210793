@@ -1,0 +1,9 @@
+print("Menghitung luas trapesium")
+
+alasatas = int (input("Masukan alasatas : " ))
+alasbawah = int (input("Masukan alasbawah : " ))
+tinggi = int (input("Masukan tinggi : " ))
+
+luas = int (0.5*(alasatas + alasbawah)*tinggi)
+
+print ("Luas trapesium adalah ",luas)
