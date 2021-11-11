@@ -1,0 +1,8 @@
+print("Biodata")
+
+nama_lengkap = input("Nama : ")
+tempat_tanggal_lahir = input("Tempat tanggal lahir : ")
+
+    
+print ("Hallo ",nama_lengkap[::-1])
+print ("Anda lahir di ",tempat_tanggal_lahir)
