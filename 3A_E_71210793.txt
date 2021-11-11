@@ -1,0 +1,11 @@
+print("Daftar Bbelanja")
+
+Masukan_daftar_belanja_1 = input("Daftar belanja 1 : " )
+Masukan_daftar_belanja_2 = input ("Daftar belanja 2 : " )
+Tambahkan_data_ke_daftar_belanja_1 = input("Tambahkan daftar belanja 1 : " )
+Tambahkan_data_ke_daftar_belanja_2 = input("Tambahkan daftar belanja 2 : " )
+
+print("Daftar belanja 1 adalah : ")
+input(Masukan_daftar_belanja_1 + Masukan_daftar_belanja_2)
+print("Daftar belanja 2 adalah : ")
+input(Masukan_daftar_belanja_2 + Masukan_daftar_belanja_1)
